@@ -1,0 +1,14 @@
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.exe
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.deps.json
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.runtimeconfig.json
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.dll
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\bin\Debug\netcoreapp3.1\MountingTrip.pdb
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.dll
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.pdb
+C:\Users\Stefan\source\repos\ConsoleApp2\MountingTrip\obj\Debug\netcoreapp3.1\MountingTrip.genruntimeconfig.cache
