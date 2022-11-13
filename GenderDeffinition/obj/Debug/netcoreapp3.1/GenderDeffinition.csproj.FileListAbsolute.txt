@@ -1,0 +1,14 @@
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.exe
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.deps.json
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.runtimeconfig.json
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.dll
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\bin\Debug\netcoreapp3.1\GenderDeffinition.pdb
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.dll
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.pdb
+C:\Users\Stefan\source\repos\NestedConditionalStatements\GenderDeffinition\obj\Debug\netcoreapp3.1\GenderDeffinition.genruntimeconfig.cache
