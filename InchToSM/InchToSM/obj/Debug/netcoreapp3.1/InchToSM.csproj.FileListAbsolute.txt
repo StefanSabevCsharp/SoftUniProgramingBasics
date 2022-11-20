@@ -1,0 +1,12 @@
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.exe
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.deps.json
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.runtimeconfig.json
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.dll
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\bin\Debug\netcoreapp3.1\InchToSM.pdb
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.dll
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.pdb
+C:\Users\Stefan\source\repos\InchToSM\InchToSM\obj\Debug\netcoreapp3.1\InchToSM.genruntimeconfig.cache
