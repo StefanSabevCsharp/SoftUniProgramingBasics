@@ -1,0 +1,13 @@
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.exe
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.deps.json
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.runtimeconfig.json
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.dll
+C:\Users\Stefan\source\repos\ReadName\ReadName\bin\Debug\netcoreapp3.1\ReadName.pdb
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.dll
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.pdb
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\ReadName\ReadName\obj\Debug\netcoreapp3.1\ReadName.csprojAssemblyReference.cache
